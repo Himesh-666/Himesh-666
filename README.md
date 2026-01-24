@@ -1,18 +1,23 @@
 ## Hi there 👋
 
-Backend developer in progress | Python & Django
-Focused on building reliable web applications and solving real-world problems
-Learning every day
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himesh-666&show_icons=true&theme=tokyonight)
+I am a backend developer focused on creating reliable and efficient web applications. My primary expertise is in Python and Django, and I am continuously enhancing my skills through practical projects and real-world problem solving.
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himesh-666&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Himesh-666&theme=tokyonight)
+-->
 
 ### Tech Stack
 - Frontend: HTML,CSS
 - Backend: Python, Django  
 - Databases: SQLite (learning), PostgreSQL (planned)  
 - Tools: Git, GitHub, VS Code
+
+##🎯 Current Focus
+- Deepening backend development skills
+
+- Developing robust Django applications
+
+- Writing clean, maintainable, and scalable code
 
 <!--
 **Himesh-666/Himesh-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
