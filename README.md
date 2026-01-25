@@ -8,7 +8,8 @@ I am a backend developer focused on creating reliable and efficient web applicat
 
 ### Tech Stack
 - Frontend: HTML,CSS
-- Backend: Python, Django  
+- Backend: Python, Django
+- Programming langauge: python , C++ 
 - Databases: SQLite (learning), PostgreSQL (planned)  
 - Tools: Git, GitHub, VS Code
 
