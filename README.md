@@ -78,10 +78,10 @@ I enjoy understanding **how things work under the hood** — databases, APIs, au
 <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himesh-666&theme=tokyonight" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-666&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
@@ -89,11 +89,9 @@ I enjoy understanding **how things work under the hood** — databases, APIs, au
 ---
 
 ## 🤝 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:himeshwarpolisetty@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](www.linkedin.com/in/polisetty-himeshwar-867214321)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/Himesh-666)
 
 ---
 
