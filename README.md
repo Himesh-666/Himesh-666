@@ -1,33 +1,36 @@
 # 👋 Hi, I'm **Himeshwar**
 
-### 🎯 Backend Developer in Progress | Python • Django • REST APIs
+### 🚀 Backend Developer in Progress | Python • Django • REST APIs • DSA
 
-🎓 **Computer Science Engineering Student**
-🐍 Focused on **Backend Development with Python & Django**
-🛠️ Interested in building **reliable, scalable, real-world web applications**
-📚 Currently strengthening **Django, Django REST Framework & backend fundamentals**
+🎓 Computer Science Engineering student
+🐍 Focused on backend development using **Python & Django**
+🧠 Actively strengthening **Data Structures & Algorithms (DSA)** for better problem solving
+🛠️ Interested in building **reliable, scalable, real-world backend systems**
 
 ---
 
 ## 🧠 About Me
 
-I’m someone who prefers **logic, structure, and backend systems** over flashy UI.
-I enjoy understanding **how things work under the hood** — databases, APIs, authentication, and server logic.
+I naturally gravitate toward **logic, structure, and backend systems** rather than flashy UI.
+Alongside backend development, I strongly believe that **good engineers are built on strong problem-solving fundamentals**, which is why I’m consistently learning and practicing **DSA**.
 
-* 💻 Strong interest in **Python & Django**
-* 🔐 Curious about **backend security & data handling**
-* 🧱 Learning how to build **clean and maintainable backend architectures**
-* 🎯 **Goal:** Become a skilled **Backend Engineer** capable of solving real-world problems
+I enjoy understanding how things work behind the scenes — APIs, databases, authentication, and efficient algorithms.
+
+* 💻 Strong interest in **Python, Django & backend systems**
+* 🧩 Actively learning **Data Structures & Algorithms (C++)**
+* 🔐 Curious about **backend security and data handling**
+* 🧱 Learning to design **clean, maintainable architectures**
+* 🎯 **Goal:** Become a well-rounded **Backend Engineer** with strong problem-solving skills
 
 ---
 
-## 🛠 Skill Set
+## 🛠️ Skill Set
 
 <table>
 <tr>
 <td align="center"><b>🚀 Backend</b></td>
+<td align="center"><b>🧠 DSA</b></td>
 <td align="center"><b>🌐 Frontend</b></td>
-<td align="center"><b>💻 Languages</b></td>
 <td align="center"><b>⚙️ Tools</b></td>
 </tr>
 
@@ -35,27 +38,27 @@ I enjoy understanding **how things work under the hood** — databases, APIs, au
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42"/><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="42"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="42"/>
+</td>
+
+<td align="center">
+C++<br>
+Arrays<br>
+Linked Lists<br>
+Stacks & Queues<br>
+Recursion<br>
+Sorting & Searching
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/><br>
-<img src="https://i0.wp.com/moodle.sit.ac.in/blog/wp-content/uploads/2023/06/c.png?fit=709%2C555&ssl=1" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </td>
 </tr>
 </table>
@@ -66,10 +69,20 @@ I enjoy understanding **how things work under the hood** — databases, APIs, au
 
 * 🔹 Django (deep dive)
 * 🔹 Django REST Framework
-* 🔹 RESTful API design
+* 🔹 RESTful API design & best practices
 * 🔹 Authentication & Authorization (JWT)
 * 🔹 Database concepts & optimization
-* 🔹 Writing clean, structured backend code
+* 🔹 **Data Structures & Algorithms (C++)**
+* 🔹 Writing clean, structured, efficient code
+
+---
+
+## 📌 Featured Learning Repositories
+
+* 📘 **DSA Journey (C++)** — daily practice of data structures & algorithms
+* ⚙️ **Backend Projects** — Django & REST API based real-world applications
+
+*(Pinned repositories showcase these in detail 👇)*
 
 ---
 
@@ -89,11 +102,12 @@ I enjoy understanding **how things work under the hood** — databases, APIs, au
 ---
 
 ## 🤝 Connect With Me
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:himeshwarpolisetty@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](www.linkedin.com/in/polisetty-himeshwar-867214321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/polisetty-himeshwar-867214321)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/Himesh-666)
 
 ---
 
-⭐ **“I focus on understanding systems deeply, not just making things work.”**
-⬇️ Check out my repositories below ⬇️
+⭐ *“Strong systems are built on strong fundamentals.”*
+⬇️ Explore my repositories to see my learning journey ⬇️
