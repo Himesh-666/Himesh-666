@@ -97,24 +97,3 @@ Sorting & Searching
 > If a card does not show, wait a few minutes (these are third-party services). If they still fail, try the alternative plain Markdown image lines (no table) or refresh the cache.
 
 ---
-
-## 🚀 Run my Feedback Form locally
-
-```bash
-# clone
-git clone https://github.com/Himesh-666/Feedback_Form.git
-cd Feedback_Form
-
-# create virtual env & activate (macOS / Linux)
-python3 -m venv venv
-source venv/bin/activate
-
-# install dependencies
-pip install -r requirements.txt
-
-# apply migrations & create superuser
-python manage.py migrate
-python manage.py createsuperuser
-
-# run server
-python manage.py runserver
